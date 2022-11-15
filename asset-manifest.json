@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/firebase-tut/%20/static/css/main.f6800ccf.css",
-    "main.js": "/firebase-tut/%20/static/js/main.8d24af1c.js",
-    "index.html": "/firebase-tut/%20/index.html",
-    "main.f6800ccf.css.map": "/firebase-tut/%20/static/css/main.f6800ccf.css.map",
-    "main.8d24af1c.js.map": "/firebase-tut/%20/static/js/main.8d24af1c.js.map"
+    "main.css": "/firebase-tut/static/css/main.f6800ccf.css",
+    "main.js": "/firebase-tut/static/js/main.33ec0fac.js",
+    "index.html": "/firebase-tut/index.html",
+    "main.f6800ccf.css.map": "/firebase-tut/static/css/main.f6800ccf.css.map",
+    "main.33ec0fac.js.map": "/firebase-tut/static/js/main.33ec0fac.js.map"
   },
   "entrypoints": [
     "static/css/main.f6800ccf.css",
-    "static/js/main.8d24af1c.js"
+    "static/js/main.33ec0fac.js"
   ]
 }
